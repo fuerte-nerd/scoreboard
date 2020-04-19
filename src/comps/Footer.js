@@ -1,9 +1,9 @@
 import React from "react";
-import { Container, Typography } from "@material-ui/core";
+import { Box, Container, Typography } from "@material-ui/core";
 
 const Footer = () => {
   return (
-    <footer>
+    <Box component="footer" m={6}>
       <Container>
         <Typography
           align="center"
@@ -17,8 +17,8 @@ const Footer = () => {
             : ` - ${new Date().getFullYear()} `}
           David Andrews
         </Typography>
-      </Container>{" "}
-    </footer>
+      </Container>
+    </Box>
   );
 };
 
