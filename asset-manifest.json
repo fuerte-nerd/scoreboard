@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scoreboard/static/css/main.050523cc.chunk.css",
-    "main.js": "/scoreboard/static/js/main.fe5a4fd8.chunk.js",
-    "main.js.map": "/scoreboard/static/js/main.fe5a4fd8.chunk.js.map",
+    "main.js": "/scoreboard/static/js/main.6cfc9b7d.chunk.js",
+    "main.js.map": "/scoreboard/static/js/main.6cfc9b7d.chunk.js.map",
     "runtime-main.js": "/scoreboard/static/js/runtime-main.68683a59.js",
     "runtime-main.js.map": "/scoreboard/static/js/runtime-main.68683a59.js.map",
     "static/js/2.bae724c4.chunk.js": "/scoreboard/static/js/2.bae724c4.chunk.js",
     "static/js/2.bae724c4.chunk.js.map": "/scoreboard/static/js/2.bae724c4.chunk.js.map",
     "index.html": "/scoreboard/index.html",
-    "precache-manifest.059954eb8482b8befc7156a2ee387ca1.js": "/scoreboard/precache-manifest.059954eb8482b8befc7156a2ee387ca1.js",
+    "precache-manifest.1800584198400dd140c1d48818a949b7.js": "/scoreboard/precache-manifest.1800584198400dd140c1d48818a949b7.js",
     "service-worker.js": "/scoreboard/service-worker.js",
     "static/css/main.050523cc.chunk.css.map": "/scoreboard/static/css/main.050523cc.chunk.css.map",
     "static/js/2.bae724c4.chunk.js.LICENSE.txt": "/scoreboard/static/js/2.bae724c4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.68683a59.js",
     "static/js/2.bae724c4.chunk.js",
     "static/css/main.050523cc.chunk.css",
-    "static/js/main.fe5a4fd8.chunk.js"
+    "static/js/main.6cfc9b7d.chunk.js"
   ]
 }
